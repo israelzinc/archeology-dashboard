@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/archeology-dashboard/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/archeology-dashboard/static/js/main.5ca315a4.chunk.js",
+    "main.js.map": "/archeology-dashboard/static/js/main.5ca315a4.chunk.js.map",
+    "runtime-main.js": "/archeology-dashboard/static/js/runtime-main.3b11d606.js",
+    "runtime-main.js.map": "/archeology-dashboard/static/js/runtime-main.3b11d606.js.map",
+    "static/css/2.150d169a.chunk.css": "/archeology-dashboard/static/css/2.150d169a.chunk.css",
+    "static/js/2.1ca7963d.chunk.js": "/archeology-dashboard/static/js/2.1ca7963d.chunk.js",
+    "static/js/2.1ca7963d.chunk.js.map": "/archeology-dashboard/static/js/2.1ca7963d.chunk.js.map",
+    "static/js/3.76777388.chunk.js": "/archeology-dashboard/static/js/3.76777388.chunk.js",
+    "static/js/3.76777388.chunk.js.map": "/archeology-dashboard/static/js/3.76777388.chunk.js.map",
+    "index.html": "/archeology-dashboard/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/archeology-dashboard/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/archeology-dashboard/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.1ca7963d.chunk.js.LICENSE.txt": "/archeology-dashboard/static/js/2.1ca7963d.chunk.js.LICENSE.txt",
+    "static/media/insect_rotated.03a76e18.png": "/archeology-dashboard/static/media/insect_rotated.03a76e18.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b11d606.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.1ca7963d.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.5ca315a4.chunk.js"
+  ]
+}
